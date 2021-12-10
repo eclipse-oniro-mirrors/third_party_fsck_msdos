@@ -34,9 +34,9 @@ static const char rcsid[] =
   "$FreeBSD$";
 #endif /* not lint */
 
-// #include <sys/endian.h>
+#include <sys/endian.h>
 #include <sys/queue.h>
-// #include <sys/limits.h>
+#include <sys/limits.h>
 #include <sys/mman.h>
 #include <sys/param.h>
 
