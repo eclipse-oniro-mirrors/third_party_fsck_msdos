@@ -116,7 +116,7 @@ main(int argc, char **argv)
 		usage();
 
 	while (--argc >= 0) {
-		setcdevname(*argv, preen);
+		// setcdevname(*argv, preen);
 		erg = checkfilesys(*argv++);
 		if (erg > ret)
 			ret = erg;
