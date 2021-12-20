@@ -1,8 +1,8 @@
 [
     {
         "Name"                  : "fsck_msdos",
-        "License"               : "BSD 2-clause",
-        "License File"          : "",
+        "License"               : "BSD-4-Clause",
+        "License File"          : "COPYRIGHT",
         "Version Number"        : "",
         "Owner"                 : "Berkeley",
         "Upstream URL"          : "https://github.com/freebsd/freebsd-src/tree/master/sbin/fsck_msdosfs",
