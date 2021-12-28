@@ -27,6 +27,9 @@ fsck_msdos是freebsd/freebsd-src/tree/master/sbin下的一个功能，源代码�
 
     https://github.com/freebsd/freebsd-src/tree/master/sbin/fsck_msdosfs  
 
+BSD使用手册链接：
+
+    https://www.freebsd.org/cgi/man.cgi?query=fsck_msdosfs&sektion=8
 
 #### 如何获取  
   
