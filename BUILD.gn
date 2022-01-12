@@ -60,7 +60,7 @@ ohos_executable("fsck_msdos") {
 
   deps = []
   install_enable = true
-  subsystem_name = "storage_manager"
+  subsystem_name = "filemanagement"
   part_name = "storage_standard"
   install_images = ["system"]
 }
