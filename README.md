@@ -23,16 +23,9 @@ fsck_msdos是Fat32文件系统fsck工具，是DOS/Windows 用来检查和维护�
 
   
 #### 来源
-fsck_msdos是freebsd/freebsd-src/tree/master/sbin下的一个功能，源代码路径：
+1.  fsck_msdos是[freebsd/freebsd-src](https://github.com/freebsd/freebsd-src/tree/master/sbin/fsck_msdosfs)下的一个功能。  
+2.  BSD提供的[使用手册](https://www.freebsd.org/cgi/man.cgi?query=fsck_msdosfs&sektion=8)。  
+3.  可以到[freebsd-src](https://github.com/freebsd/freebsd-src.git)了解源代码。  
 
-https://github.com/freebsd/freebsd-src/tree/master/sbin/fsck_msdosfs
-  
-#### BSD使用手册链接：
-
-https://www.freebsd.org/cgi/man.cgi?query=fsck_msdosfs&sektion=8
-  
-#### 如何获取  
-
-https://github.com/freebsd/freebsd-src.git
 
 
