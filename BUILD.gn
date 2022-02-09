@@ -7,7 +7,7 @@
 # 2. Redistributions in binary form must reproduce the above copyright
 #    notice, this list of conditions and the following disclaimer in the
 #    documentation and/or other materials provided with the distribution.
-# 
+#
 # THIS SOFTWARE IS PROVIDED BY THE AUTHORS ``AS IS'' AND ANY EXPRESS OR
 # IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES
 # OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED.
@@ -61,6 +61,6 @@ ohos_executable("fsck_msdos") {
   deps = []
   install_enable = true
   subsystem_name = "filemanagement"
-  part_name = "storage_standard"
-  install_images = ["system"]
+  part_name = "storage_service"
+  install_images = [ "system" ]
 }
